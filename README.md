@@ -1,4 +1,4 @@
-# C programming practice & fundamentals
+# C programming & fundamentals
 This repository contain my core C programming practice, exercise and foundational concepts.
 ## Topic covered :
 - Basic syntax & data type
