@@ -1,5 +1,5 @@
 # C programming & fundamentals
-This repository contain my core C programming practice, exercise and foundational concepts.
+This repository contain my core C programming exercise and foundational concepts.
 ## Topic covered :
 - Basic syntax & data type
 - control flow (if/else,loops)
